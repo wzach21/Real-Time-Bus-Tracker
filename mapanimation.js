@@ -1,6 +1,6 @@
 // Input your mapboxgl access key
 mapboxgl.accessToken =
-      'pk.eyJ1IjoidGVzdHVzZXIxMDAwIiwiYSI6ImNraDkzZ2pkMzAzMHoycnBmMXpvZ3UwZnMifQ.jAE4YsPeAJv50VK92NSpOQ';
+      'YOUR KEY HERE';
 
     // Create the map object using mapboxgl.map() function
 let map = new mapboxgl.Map({
